@@ -1,0 +1,67 @@
+about:
+  description: Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+  license: MIT
+  homepage: 
+  head: 936e8a3
+  archived: false
+  latestVersion: v1.20.21
+  collectedAt: 2026-09-01T04:55:23Z
+timeline:
+  created: 2019-05-26
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-17
+popularity:
+  star: 46455
+  watcher: 141
+  fork: 1895
+  release: 346
+  contributor: 125
+  pullRequest: 94
+  issue: 1009
+language:
+  Python: 1926565
+  JavaScript: 1717606
+  Shell: 127217
+  CSS: 110485
+  HTML: 57984
+  Nix: 21175
+  Dockerfile: 7813
+  C: 3713
+  LiveScript: 3625
+  Makefile: 3562
+  PowerShell: 3102
+  Batchfile: 2151
+totalLine: 3984998
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 10
+    openPR: 3
+    closedIssue: 16
+    openIssue: 6
+    commit: 30
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 19
+    openPR: 4
+    closedIssue: 51
+    openIssue: 17
+    commit: 123
+  last180d:
+    since: 2026-03-05
+    release: 10
+    mergedPR: 44
+    openPR: 10
+    closedIssue: 118
+    openIssue: 39
+    commit: 233
+  last360d:
+    since: 2025-09-06
+    release: 36
+    mergedPR: 122
+    openPR: 24
+    closedIssue: 392
+    openIssue: 116
+    commit: 756
