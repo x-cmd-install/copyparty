@@ -7,17 +7,17 @@ about:
   head: 4e318d5
   archived: false
   latestVersion: v1.20.21
-  collectedAt: 2026-09-04T19:23:31Z
+  collectedAt: 2026-09-04T21:13:01Z
 timeline:
   created: 2019-05-26
   lastCommit: 2026-09-01
   lastRelease: 2026-08-17
 popularity:
-  star: 46507
+  star: 46513
   watcher: 143
   fork: 1897
   release: 346
-  contributor: 125
+  contributor: 124
   pullRequest: 311
   issue: 1012
 language:
@@ -91,6 +91,124 @@ total:
   openIssue: 225
   commit: 4759
 ---
+path: /home/runner/.x-repo/github.com/9001/copyparty
+collectedAt: 2026-09-04T21:13:03Z
+loc:
+  Python:
+    code: 45952
+    comments: 1821
+    blanks: 9664
+    files: 156
+  JavaScript:
+    code: 33935
+    comments: 470
+    blanks: 4246
+    files: 47
+  Css:
+    code: 5894
+    comments: 52
+    blanks: 323
+    files: 11
+  Sh:
+    code: 3222
+    comments: 925
+    blanks: 957
+    files: 45
+  Html:
+    code: 1288
+    comments: 14
+    blanks: 99
+    files: 17
+  Bitbake:
+    code: 1154
+    comments: 1238
+    blanks: 880
+    files: 31
+  Svg:
+    code: 635
+    comments: 0
+    blanks: 0
+    files: 3
+  Nix:
+    code: 537
+    comments: 96
+    blanks: 61
+    files: 5
+  Yaml:
+    code: 492
+    comments: 49
+    blanks: 43
+    files: 10
+  LiveScript:
+    code: 144
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 142
+    comments: 6
+    blanks: 21
+    files: 1
+  Dockerfile:
+    code: 123
+    comments: 26
+    blanks: 28
+    files: 1
+  RPMSpecfile:
+    code: 119
+    comments: 2
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 84
+    comments: 11
+    blanks: 36
+    files: 5
+  PowerShell:
+    code: 84
+    comments: 17
+    blanks: 3
+    files: 1
+  C:
+    code: 79
+    comments: 3
+    blanks: 30
+    files: 3
+  Batch:
+    code: 72
+    comments: 0
+    blanks: 12
+    files: 4
+  Xml:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 2
+  Json:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 3
+  CHeader:
+    code: 9
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 10629
+    blanks: 4516
+    files: 39
+  Text:
+    code: 0
+    comments: 1397
+    blanks: 183
+    files: 11
+total:
+  code: 94749
+  comments: 16848
+  blanks: 21218
+  files: 399
 ---
 date: "2026-08-24"
 repo:
