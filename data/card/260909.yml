@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.23"
   latestRelease: "v1.20.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:18:56Z
+  collectedAt: 2026-09-09T20:50:41Z
 timeline:
   created: 2019-05-26
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-06
   lastPrerelease: 
 popularity:
-  star: 46592
-  watcher: 143
-  fork: 1898
+  star: 46601
+  watcher: 144
+  fork: 1897
   release: 348
   contributor: 124
   pullRequest: 311
@@ -94,7 +94,7 @@ total:
   commit: 4785
 ---
 path: /home/runner/.x-repo/github.com/9001/copyparty
-collectedAt: 2026-09-09T06:19:04Z
+collectedAt: 2026-09-09T20:50:50Z
 loc:
   Python:
     code: 46027
