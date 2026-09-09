@@ -7,7 +7,7 @@ Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FT
 - **Latest release**: `v1.20.23` (2026-09-06)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 46568 · **Forks**: 1899 · **Open issues**: 1013 · **Contributors**: 124
+- **Stars**: 46592 · **Forks**: 1898 · **Open issues**: 1015 · **Contributors**: 124
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/copyparty> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:34:09Z._
+_Last regenerated: 2026-09-09T06:19:10Z._
