@@ -22,11 +22,10 @@ x install copyparty
 - **Latest**: `v1.20.23` (2026-09-06)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 9
-- **Published**: 2026-09-06T23:07:19Z
 
 ## Popularity
 
-- **Stars**: 46,607 · **Forks**: 1,897 · **Open issues**: 1,015 · **Contributors**: 124
+- **Stars**: 46,609 · **Forks**: 1,897 · **Open issues**: 1,015 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -62,13 +61,27 @@ Lowest-scoring checks:
 - **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [copyparty-1.20.23.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-1.20.23.tar.gz) | 1.7 MiB | `native/unknown` |
+| [copyparty-1.20.23.zip](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-1.20.23.zip) | 1.9 MiB | `other` |
+| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-en.py) | 827.1 KiB | `other` |
+| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-en.pyz) | 790.0 KiB | `other` |
+| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-sfx.py) | 1.1 MiB | `other` |
+| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty.exe) | 12.4 MiB | `other` |
+| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty.pyz) | 1.1 MiB | `other` |
+| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty32.exe) | 6.3 MiB | `other` |
+| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.23/helptext.html) | 270.8 KiB | `other` |
+
 ## Improve this data
 
 Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/copyparty.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/copyparty.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:19:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:30:09Z._
