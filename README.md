@@ -12,34 +12,7 @@ Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FT
 x install copyparty
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/9001/copyparty>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v1.20.23` (2026-09-06)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 9
-
-## Popularity
-
-- **Stars**: 46,609 · **Forks**: 1,897 · **Open issues**: 1,015 · **Contributors**: 124
-
-## Totals (cumulative)
-
-- **Releases**: 348 · **Merged PRs**: 216 · **Open PRs**: 29 · **Closed issues**: 793 · **Open issues**: 222 · **Commits**: 4785
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 5 | 2 | 10 | 6 | 59 |
-| 90d | 2026-06-12 | 7 | 18 | 4 | 47 | 15 | 144 |
-| 360d | 2025-09-15 | 37 | 114 | 23 | 378 | 112 | 766 |
-
-## Code size
+## Code insight
 
 Total: **94,110** lines of code across **275** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/9001/copyparty>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v1.20.23` (2026-09-06)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 46,610 · **Forks**: 1,897 · **Open issues**: 1,015 · **Contributors**: 124
+
+## Totals (cumulative)
+
+- **Releases**: 348 · **Merged PRs**: 216 · **Open PRs**: 29 · **Closed issues**: 793 · **Open issues**: 222 · **Commits**: 4785
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 5 | 2 | 10 | 6 | 59 |
+| last60d | 2026-07-12 | 5 | 14 | 4 | 31 | 12 | 106 |
+| 90d | 2026-06-12 | 7 | 18 | 4 | 47 | 15 | 144 |
+| last180d | 2026-03-14 | 10 | 40 | 10 | 115 | 34 | 258 |
+| 360d | 2025-09-15 | 37 | 114 | 23 | 378 | 112 | 766 |
+| last720d | 2024-09-20 | 86 | 200 | 29 | 719 | 219 | 1553 |
+
 ## Release assets
 
 | Asset | Size | Target |
@@ -75,6 +78,18 @@ Lowest-scoring checks:
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.23/helptext.html) | 270.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **27** distros on [repology.org](https://repology.org/project/copyparty). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.20.23` | ✅ latest |
+| Homebrew | `1.20.23` | ✅ latest |
+| Fedora rawhide | `1.20.21` | ⚠️ outdated |
+| Nix unstable | `1.20.21` | ⚠️ outdated |
+| Alpine edge | `1.20.16` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +99,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:30:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:26:37Z._
