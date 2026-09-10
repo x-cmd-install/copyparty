@@ -1,24 +1,74 @@
 # copyparty
 
+[中文版本](./README.cn.md)
+
 Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 
-- **Upstream**: <https://github.com/9001/copyparty>
-- **Homepage**: <>
-- **Latest release**: `v1.20.23` (2026-09-06)
-- **Last commit**: 2026-09-08
-- **License**: MIT
-- **Stars**: 46601 · **Forks**: 1897 · **Open issues**: 1015 · **Contributors**: 124
+![copyparty](https://repo.x-cmd.io/copyparty.svg)
 
-## Installation
+## Install
 
 ```sh
 x install copyparty
 ```
 
-See <https://x-cmd.com/install/copyparty> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/9001/copyparty>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:51:12Z._
+- **Latest**: `v1.20.23` (2026-09-06)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 9
+- **Published**: 2026-09-06T23:07:19Z
+
+## Popularity
+
+- **Stars**: 46,607 · **Forks**: 1,897 · **Open issues**: 1,015 · **Contributors**: 124
+
+## Totals (cumulative)
+
+- **Releases**: 348 · **Merged PRs**: 216 · **Open PRs**: 29 · **Closed issues**: 793 · **Open issues**: 222 · **Commits**: 4785
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 5 | 2 | 10 | 6 | 59 |
+| 90d | 2026-06-12 | 7 | 18 | 4 | 47 | 15 | 144 |
+| 360d | 2025-09-15 | 37 | 114 | 23 | 378 | 112 | 766 |
+
+## Code size
+
+Total: **94,110** lines of code across **275** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 46,027 | 1,821 | 9,677 | 156 |
+| JavaScript | 34,011 | 470 | 4,256 | 47 |
+| Css | 5,898 | 52 | 323 | 11 |
+| Sh | 3,147 | 866 | 925 | 44 |
+| Html | 1,288 | 14 | 99 | 17 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+
+## Improve this data
+
+Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/copyparty.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T06:19:42Z._
