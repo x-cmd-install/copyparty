@@ -1,30 +1,3 @@
-- repo: arch
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.23
-  origversion: 1.20.23-1
-  status: newest
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
-- repo: fedora_rawhide
-  subrepo: development
-  srcname: copyparty
-  binnames:
-    - copyparty
-    - copyparty-u2c
-    - copyparty-partyfuse
-  visiblename: copyparty
-  version: 1.20.21
-  origversion: 1.20.21-1.fc46
-  status: outdated
-  summary: Portable file server with many supported protocols
-  licenses:
-    - MIT AND Apache-2.0 AND OFL-1.1
-  categories:
-    - Unspecified
 - repo: alpine_edge
   subrepo: testing
   srcname: copyparty
@@ -64,6 +37,17 @@
     - lauren@selfisekai.rocks
   licenses:
     - MIT
+- repo: arch
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.23
+  origversion: 1.20.23-1
+  status: newest
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
 - repo: fedora_43
   subrepo: updates
   srcname: copyparty
@@ -90,6 +74,22 @@
   visiblename: copyparty
   version: 1.20.21
   origversion: 1.20.21-1.fc44
+  status: outdated
+  summary: Portable file server with many supported protocols
+  licenses:
+    - MIT AND Apache-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: copyparty
+  binnames:
+    - copyparty
+    - copyparty-u2c
+    - copyparty-partyfuse
+  visiblename: copyparty
+  version: 1.20.21
+  origversion: 1.20.21-1.fc46
   status: outdated
   summary: Portable file server with many supported protocols
   licenses:
@@ -179,10 +179,10 @@
   srcname: copyparty
   binname: copyparty
   visiblename: copyparty
-  version: 1.20.21
-  origversion: 1.20.21-1
-  status: outdated
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++
+  version: 1.20.23
+  origversion: 1.20.23-1
+  status: newest
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
   licenses:
     - MIT
 - repo: manjaro_unstable
