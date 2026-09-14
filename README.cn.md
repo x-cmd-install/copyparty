@@ -47,22 +47,22 @@ x install copyparty
 
 ## 流行度
 
-- **Star**: 46,650 · **Fork**: 1,900 · **开放 issue**: 1,016 · **贡献者**: 124
+- **Star**: 46,667 · **Fork**: 1,900 · **开放 issue**: 1,017 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 348 · **已合并 PR**: 216 · **开放 PR**: 29 · **已关闭 issue**: 794 · **开放 issue**: 222 · **提交数**: 4785
+- **发布数**: 348 · **已合并 PR**: 216 · **开放 PR**: 29 · **已关闭 issue**: 796 · **开放 issue**: 221 · **提交数**: 4785
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 4 | 1 | 11 | 6 | 59 |
-| last60d | 2026-07-15 | 5 | 14 | 4 | 30 | 12 | 106 |
-| 90d | 2026-06-15 | 7 | 17 | 4 | 45 | 15 | 144 |
-| last180d | 2026-03-17 | 10 | 40 | 10 | 114 | 34 | 258 |
-| 360d | 2025-09-18 | 36 | 114 | 23 | 373 | 110 | 766 |
-| last720d | 2024-09-23 | 86 | 200 | 29 | 720 | 219 | 1550 |
+| 30d | 2026-08-15 | 3 | 4 | 1 | 12 | 5 | 39 |
+| last60d | 2026-07-16 | 5 | 14 | 4 | 32 | 11 | 96 |
+| 90d | 2026-06-16 | 7 | 15 | 4 | 45 | 14 | 142 |
+| last180d | 2026-03-18 | 10 | 40 | 10 | 116 | 32 | 234 |
+| 360d | 2025-09-19 | 36 | 114 | 23 | 373 | 108 | 725 |
+| last720d | 2024-09-24 | 86 | 200 | 29 | 722 | 218 | 1549 |
 
 ## Release 资产
 
@@ -78,18 +78,6 @@ x install copyparty
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.23/helptext.html) | 270.8 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/copyparty) 上共有 **27** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.20.23` | ✅ latest |
-| Homebrew | `1.20.23` | ✅ latest |
-| Fedora rawhide | `1.20.21` | ⚠️ outdated |
-| Nix unstable | `1.20.21` | ⚠️ outdated |
-| Alpine edge | `1.20.16` | ⚠️ outdated |
-
 ## 改进这些数据
 
 copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `copyparty` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +87,4 @@ copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:30:10Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:47:48Z._
