@@ -14,14 +14,14 @@ x install copyparty
 
 ## Code insight
 
-Total: **94,110** lines of code across **275** files in the top 5 languages.
+Total: **94,358** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,027 | 1,821 | 9,677 | 156 |
-| JavaScript | 34,011 | 470 | 4,256 | 47 |
+| Python | 46,174 | 1,822 | 9,688 | 156 |
+| JavaScript | 34,015 | 470 | 4,257 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
-| Sh | 3,147 | 866 | 925 | 44 |
+| Sh | 3,244 | 868 | 933 | 45 |
 | Html | 1,288 | 14 | 99 | 17 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.23` (2026-09-06)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 46,697 · **Forks**: 1,902 · **Open issues**: 1,018 · **Contributors**: 124
+- **Stars**: 46,714 · **Forks**: 1,903 · **Open issues**: 1,018 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 348 · **Merged PRs**: 216 · **Open PRs**: 29 · **Closed issues**: 796 · **Open issues**: 222 · **Commits**: 4785
+- **Releases**: 348 · **Merged PRs**: 216 · **Open PRs**: 29 · **Closed issues**: 796 · **Open issues**: 222 · **Commits**: 4790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 4 | 1 | 12 | 6 | 39 |
-| last60d | 2026-07-18 | 5 | 13 | 4 | 31 | 11 | 96 |
-| 90d | 2026-06-18 | 7 | 15 | 4 | 45 | 15 | 142 |
-| last180d | 2026-03-20 | 10 | 40 | 10 | 115 | 31 | 234 |
-| 360d | 2025-09-21 | 34 | 113 | 23 | 362 | 108 | 725 |
-| last720d | 2024-09-26 | 86 | 200 | 29 | 722 | 219 | 1549 |
+| 30d | 2026-08-18 | 2 | 3 | 1 | 12 | 6 | 44 |
+| last60d | 2026-07-19 | 5 | 13 | 4 | 30 | 10 | 101 |
+| 90d | 2026-06-19 | 7 | 15 | 4 | 45 | 15 | 147 |
+| last180d | 2026-03-21 | 10 | 40 | 10 | 114 | 31 | 239 |
+| 360d | 2025-09-22 | 33 | 111 | 23 | 361 | 107 | 730 |
+| last720d | 2024-09-27 | 86 | 200 | 29 | 722 | 219 | 1554 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:52:01Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:45:48Z._
