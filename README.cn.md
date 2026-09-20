@@ -4,7 +4,7 @@
 
 Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 
-![copyparty](https://repo.x-cmd.io/copyparty.svg?lang=zh)
+[![x-cmd/install — copyparty Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copyparty.svg?lang=zh)](https://x-cmd.com/install/copyparty)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install copyparty
 
 ## 代码洞察
 
-合计: **94,372** 行代码（覆盖前 5 种语言、共 **276** 个文件）。
+合计: **94,467** 行代码（覆盖前 5 种语言、共 **276** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 46,188 | 1,822 | 9,688 | 156 |
-| JavaScript | 34,015 | 470 | 4,257 | 47 |
+| Python | 46,265 | 1,822 | 9,688 | 156 |
+| JavaScript | 34,033 | 470 | 4,257 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
 | Sh | 3,244 | 868 | 933 | 45 |
 | Html | 1,288 | 14 | 99 | 17 |
@@ -41,42 +41,42 @@ x install copyparty
 
 ## 发布
 
-- **最新版本**: `v1.20.23` (2026-09-06)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v1.20.24` (2026-09-19)
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 46,727 · **Fork**: 1,905 · **开放 issue**: 1,019 · **贡献者**: 124
+- **Star**: 46,740 · **Fork**: 1,905 · **开放 issue**: 1,019 · **贡献者**: 125
 
 ## 累计统计
 
-- **发布数**: 348 · **已合并 PR**: 216 · **开放 PR**: 30 · **已关闭 issue**: 797 · **开放 issue**: 222 · **提交数**: 4796
+- **发布数**: 349 · **已合并 PR**: 217 · **开放 PR**: 29 · **已关闭 issue**: 800 · **开放 issue**: 219 · **提交数**: 4805
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 2 | 2 | 13 | 5 | 50 |
-| last60d | 2026-07-20 | 5 | 13 | 5 | 31 | 10 | 107 |
-| 90d | 2026-06-20 | 7 | 15 | 5 | 45 | 15 | 153 |
-| last180d | 2026-03-22 | 10 | 40 | 10 | 114 | 31 | 245 |
-| 360d | 2025-09-23 | 33 | 111 | 24 | 358 | 106 | 736 |
-| last720d | 2024-09-28 | 86 | 200 | 30 | 723 | 219 | 1557 |
+| 30d | 2026-08-21 | 3 | 2 | 0 | 13 | 4 | 58 |
+| last60d | 2026-07-22 | 6 | 14 | 4 | 30 | 9 | 97 |
+| 90d | 2026-06-22 | 8 | 16 | 4 | 46 | 14 | 158 |
+| last180d | 2026-03-24 | 10 | 40 | 9 | 113 | 28 | 251 |
+| 360d | 2025-09-25 | 33 | 112 | 23 | 357 | 104 | 717 |
+| last720d | 2024-09-30 | 87 | 201 | 29 | 723 | 216 | 1565 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [copyparty-1.20.23.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-1.20.23.tar.gz) | 1.7 MiB | `native/unknown` |
-| [copyparty-1.20.23.zip](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-1.20.23.zip) | 1.9 MiB | `other` |
-| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-en.py) | 827.1 KiB | `other` |
-| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-en.pyz) | 790.0 KiB | `other` |
-| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty-sfx.py) | 1.1 MiB | `other` |
-| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty.exe) | 12.4 MiB | `other` |
-| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty.pyz) | 1.1 MiB | `other` |
-| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.23/copyparty32.exe) | 6.3 MiB | `other` |
-| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.23/helptext.html) | 270.8 KiB | `other` |
+| [copyparty-1.20.24.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-1.20.24.tar.gz) | 1.7 MiB | `native/unknown` |
+| [copyparty-1.20.24.zip](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-1.20.24.zip) | 2.0 MiB | `other` |
+| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-en.py) | 831.0 KiB | `other` |
+| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-en.pyz) | 794.1 KiB | `other` |
+| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-sfx.py) | 1.1 MiB | `other` |
+| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty.exe) | 12.4 MiB | `other` |
+| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty.pyz) | 1.1 MiB | `other` |
+| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty32.exe) | 6.3 MiB | `other` |
+| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.24/helptext.html) | 276.5 KiB | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:36:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:29:55Z._
