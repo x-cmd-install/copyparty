@@ -14,11 +14,11 @@ x install copyparty
 
 ## Code insight
 
-Total: **94,467** lines of code across **276** files in the top 5 languages.
+Total: **94,468** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,265 | 1,822 | 9,688 | 156 |
+| Python | 46,266 | 1,822 | 9,688 | 156 |
 | JavaScript | 34,033 | 470 | 4,257 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
 | Sh | 3,244 | 868 | 933 | 45 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.24` (2026-09-19)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 46,740 · **Forks**: 1,905 · **Open issues**: 1,019 · **Contributors**: 125
+- **Stars**: 46,750 · **Forks**: 1,906 · **Open issues**: 1,021 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 349 · **Merged PRs**: 217 · **Open PRs**: 29 · **Closed issues**: 800 · **Open issues**: 219 · **Commits**: 4805
+- **Releases**: 349 · **Merged PRs**: 218 · **Open PRs**: 29 · **Closed issues**: 802 · **Open issues**: 219 · **Commits**: 4806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 2 | 0 | 13 | 4 | 58 |
-| last60d | 2026-07-22 | 6 | 14 | 4 | 30 | 9 | 97 |
-| 90d | 2026-06-22 | 8 | 16 | 4 | 46 | 14 | 158 |
-| last180d | 2026-03-24 | 10 | 40 | 9 | 113 | 28 | 251 |
-| 360d | 2025-09-25 | 33 | 112 | 23 | 357 | 104 | 717 |
-| last720d | 2024-09-30 | 87 | 201 | 29 | 723 | 216 | 1565 |
+| 30d | 2026-08-22 | 3 | 3 | 0 | 14 | 3 | 59 |
+| last60d | 2026-07-23 | 6 | 15 | 4 | 31 | 8 | 98 |
+| 90d | 2026-06-23 | 8 | 17 | 4 | 48 | 12 | 159 |
+| last180d | 2026-03-25 | 10 | 41 | 9 | 114 | 28 | 252 |
+| 360d | 2025-09-26 | 33 | 113 | 23 | 355 | 103 | 718 |
+| last720d | 2024-10-01 | 87 | 202 | 29 | 725 | 216 | 1566 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:29:53Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:32:40Z._
