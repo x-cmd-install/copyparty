@@ -30,9 +30,9 @@ x install copyparty
 
 评分最低的几项:
 
+- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install copyparty
 
 ## 流行度
 
-- **Star**: 46,750 · **Fork**: 1,906 · **开放 issue**: 1,021 · **贡献者**: 126
+- **Star**: 46,765 · **Fork**: 1,905 · **开放 issue**: 1,021 · **贡献者**: 126
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install copyparty
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 3 | 0 | 14 | 3 | 59 |
-| last60d | 2026-07-23 | 6 | 15 | 4 | 31 | 8 | 98 |
-| 90d | 2026-06-23 | 8 | 17 | 4 | 48 | 12 | 159 |
-| last180d | 2026-03-25 | 10 | 41 | 9 | 114 | 28 | 252 |
-| 360d | 2025-09-26 | 33 | 113 | 23 | 355 | 103 | 718 |
-| last720d | 2024-10-01 | 87 | 202 | 29 | 725 | 216 | 1566 |
+| 30d | 2026-08-23 | 3 | 3 | 0 | 14 | 3 | 59 |
+| last60d | 2026-07-24 | 6 | 15 | 4 | 31 | 6 | 98 |
+| 90d | 2026-06-24 | 8 | 17 | 4 | 48 | 12 | 159 |
+| last180d | 2026-03-26 | 10 | 41 | 9 | 110 | 28 | 252 |
+| 360d | 2025-09-27 | 33 | 113 | 23 | 353 | 103 | 718 |
+| last720d | 2024-10-02 | 87 | 202 | 29 | 725 | 216 | 1556 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T06:32:41Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T06:34:33Z._
