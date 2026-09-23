@@ -4,7 +4,7 @@
 
 Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 
-[![x-cmd/install — copyparty Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copyparty.svg)](https://x-cmd.com/install/copyparty)
+[![x-cmd/install — copyparty Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/copyparty.svg)](https://x-cmd.com/install/copyparty)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 46,765 · **Forks**: 1,905 · **Open issues**: 1,021 · **Contributors**: 126
+- **Stars**: 46,765 · **Forks**: 1,906 · **Open issues**: 1,023 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 349 · **Merged PRs**: 218 · **Open PRs**: 29 · **Closed issues**: 802 · **Open issues**: 219 · **Commits**: 4806
+- **Releases**: 349 · **Merged PRs**: 218 · **Open PRs**: 29 · **Closed issues**: 802 · **Open issues**: 221 · **Commits**: 4806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 3 | 0 | 14 | 3 | 59 |
-| last60d | 2026-07-24 | 6 | 15 | 4 | 31 | 6 | 98 |
-| 90d | 2026-06-24 | 8 | 17 | 4 | 48 | 12 | 159 |
-| last180d | 2026-03-26 | 10 | 41 | 9 | 110 | 28 | 252 |
-| 360d | 2025-09-27 | 33 | 113 | 23 | 353 | 103 | 718 |
-| last720d | 2024-10-02 | 87 | 202 | 29 | 725 | 216 | 1556 |
+| 30d | 2026-08-24 | 3 | 3 | 0 | 14 | 5 | 59 |
+| last60d | 2026-07-25 | 6 | 15 | 4 | 31 | 8 | 98 |
+| 90d | 2026-06-25 | 8 | 17 | 4 | 48 | 14 | 159 |
+| last180d | 2026-03-27 | 10 | 41 | 9 | 109 | 30 | 252 |
+| 360d | 2025-09-28 | 33 | 111 | 23 | 348 | 104 | 718 |
+| last720d | 2024-10-03 | 87 | 202 | 29 | 725 | 218 | 1551 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:34:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:53:19Z._
