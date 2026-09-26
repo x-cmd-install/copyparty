@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1822497,
       "digest": "sha256:450dca7d5701e67235d916e035fcc2143328ce1d0a6b5b7e3c5d2c23bdbb73e3",
-      "download_count": 196,
+      "download_count": 203,
       "created_at": "2026-09-19T22:04:39Z",
       "updated_at": "2026-09-19T22:04:40Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-1.20.24.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2045777,
       "digest": "sha256:afdf4beb3aaeedd7a1aaf30c1174c030798d6cac283f84a492fc5ef21042a02d",
-      "download_count": 47,
+      "download_count": 51,
       "created_at": "2026-09-19T22:04:40Z",
       "updated_at": "2026-09-19T22:04:40Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-1.20.24.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 850983,
       "digest": "sha256:8ca8220dc5255bf4c21a5f340457779b2091a73c6e3f5f40b6783b517e19797c",
-      "download_count": 150,
+      "download_count": 180,
       "created_at": "2026-09-19T22:04:40Z",
       "updated_at": "2026-09-19T22:04:41Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-en.py"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 813131,
       "digest": "sha256:cc62cc49f6fd7d85dc18c390f7042d453496b084b9b688761f862fa5332aefa7",
-      "download_count": 59,
+      "download_count": 71,
       "created_at": "2026-09-19T22:04:41Z",
       "updated_at": "2026-09-19T22:04:42Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-en.pyz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1203360,
       "digest": "sha256:21ec8f7715a3dae6568dc5e00976d7be177042010b2b12ffa8955a8b8c991fb1",
-      "download_count": 2029,
+      "download_count": 2372,
       "created_at": "2026-09-19T22:04:41Z",
       "updated_at": "2026-09-19T22:04:42Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty-sfx.py"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13050317,
       "digest": "sha256:f928c24ac39a224f8cf8a3c351c5d088f828433775608244ee960411546c103a",
-      "download_count": 565,
+      "download_count": 641,
       "created_at": "2026-09-19T22:04:35Z",
       "updated_at": "2026-09-19T22:04:38Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1168047,
       "digest": "sha256:377aa2d0b35112276ff3dc2dc309589a7708dd4c05b291c4af8c7c5e6081587b",
-      "download_count": 83,
+      "download_count": 103,
       "created_at": "2026-09-19T22:04:38Z",
       "updated_at": "2026-09-19T22:04:38Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty.pyz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6633017,
       "digest": "sha256:6315d52076a1588c46531e86026b161215d13b930407a2ba05b865dbda4a372e",
-      "download_count": 113,
+      "download_count": 132,
       "created_at": "2026-09-19T22:04:38Z",
       "updated_at": "2026-09-19T22:04:39Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/copyparty32.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 283085,
       "digest": "sha256:736da5427a0c145fd734ac375d4098c222c03bd0da957c1e37ba503073b15b82",
-      "download_count": 125,
+      "download_count": 136,
       "created_at": "2026-09-19T22:04:42Z",
       "updated_at": "2026-09-19T22:04:42Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.24/helptext.html"
