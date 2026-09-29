@@ -30,7 +30,7 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 46,816 · **Forks**: 1,904 · **Open issues**: 1,026 · **Contributors**: 127
+- **Stars**: 46,833 · **Forks**: 1,903 · **Open issues**: 1,026 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 3 | 3 | 0 | 12 | 7 | 52 |
-| last60d | 2026-07-30 | 5 | 14 | 4 | 31 | 10 | 91 |
-| 90d | 2026-06-30 | 8 | 16 | 4 | 48 | 16 | 151 |
-| last180d | 2026-04-01 | 10 | 37 | 8 | 103 | 30 | 253 |
-| 360d | 2025-10-03 | 32 | 107 | 22 | 339 | 104 | 688 |
-| last720d | 2024-10-08 | 85 | 202 | 28 | 724 | 220 | 1544 |
+| 30d | 2026-08-30 | 3 | 2 | 0 | 11 | 7 | 52 |
+| last60d | 2026-07-31 | 5 | 14 | 4 | 31 | 10 | 91 |
+| 90d | 2026-07-01 | 8 | 16 | 4 | 47 | 16 | 151 |
+| last180d | 2026-04-02 | 10 | 37 | 8 | 102 | 30 | 253 |
+| 360d | 2025-10-04 | 32 | 107 | 22 | 339 | 104 | 688 |
+| last720d | 2024-10-09 | 85 | 202 | 28 | 724 | 220 | 1543 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:49:22Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:01:48Z._
