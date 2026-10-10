@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1825127,
       "digest": "sha256:82c68dfa42e08a59757bbfa0b1d140032141175347906e056bef83904f5c2c70",
-      "download_count": 166,
+      "download_count": 218,
       "created_at": "2026-10-06T01:04:04Z",
       "updated_at": "2026-10-06T01:04:04Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty-1.20.25.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2048501,
       "digest": "sha256:99ace8ce3d2f54fb3083110807dd217bf7b1f1645ccd13c5449fc280b4ebf6a4",
-      "download_count": 46,
+      "download_count": 55,
       "created_at": "2026-10-06T01:04:02Z",
       "updated_at": "2026-10-06T01:04:04Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty-1.20.25.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 852775,
       "digest": "sha256:1cf39b632265e00a16cc26461804d0f80df54d4755a3d8bc6e3fa7899143bd24",
-      "download_count": 111,
+      "download_count": 131,
       "created_at": "2026-10-06T01:04:06Z",
       "updated_at": "2026-10-06T01:04:06Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty-en.py"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 815168,
       "digest": "sha256:6b7d2413afe236e29410b0e83df9aaf843abd246607269e52b83796c7ce0c143",
-      "download_count": 58,
+      "download_count": 65,
       "created_at": "2026-10-06T01:04:06Z",
       "updated_at": "2026-10-06T01:04:07Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty-en.pyz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1205416,
       "digest": "sha256:fed92d38ae9efe99b453a9d48020ba860758cc7b3207a8909e9495ffb600cd1f",
-      "download_count": 1390,
+      "download_count": 1735,
       "created_at": "2026-10-06T01:04:04Z",
       "updated_at": "2026-10-06T01:04:05Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty-sfx.py"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13206412,
       "digest": "sha256:dff72a65ffbba85ddb7748011efe44019b0effa6f9e96c0cbd8aff44fec7490e",
-      "download_count": 445,
+      "download_count": 534,
       "created_at": "2026-10-06T01:04:09Z",
       "updated_at": "2026-10-06T01:04:10Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1170088,
       "digest": "sha256:42c9c42f87216264db5b23b753e590556a23df55d0047fdc05582b0d58faa104",
-      "download_count": 72,
+      "download_count": 82,
       "created_at": "2026-10-06T01:04:05Z",
       "updated_at": "2026-10-06T01:04:06Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty.pyz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6635805,
       "digest": "sha256:cd0c96d0a3caf54ae15df29fc37c5fb910c69bec0c1215ceaeae159549f2a922",
-      "download_count": 105,
+      "download_count": 120,
       "created_at": "2026-10-06T01:04:08Z",
       "updated_at": "2026-10-06T01:04:09Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/copyparty32.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 284703,
       "digest": "sha256:d5bbb3a94f6e9e4dae9cafc2e004734140696271b5506e4021a8aa9f825723eb",
-      "download_count": 83,
+      "download_count": 90,
       "created_at": "2026-10-06T01:04:07Z",
       "updated_at": "2026-10-06T01:04:07Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/helptext.html"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3494951,
       "digest": "sha256:3ef122978f959727e79be7ac98c30c4184ee40ca039ed40d85c567c1987e08fc",
-      "download_count": 81,
+      "download_count": 91,
       "created_at": "2026-10-06T01:04:07Z",
       "updated_at": "2026-10-06T01:04:08Z",
       "browser_download_url": "https://github.com/9001/copyparty/releases/download/v1.20.25/u2c.exe"
