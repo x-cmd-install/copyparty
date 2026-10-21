@@ -14,7 +14,7 @@ x install copyparty
 
 ## Code insight
 
-Total: **94,768** lines of code across **276** files in the top 5 languages.
+Total: **94,769** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.26` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-21
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 47,088 · **Forks**: 1,908 · **Open issues**: 1,039 · **Contributors**: 128
+- **Stars**: 47,100 · **Forks**: 1,908 · **Open issues**: 1,039 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 219 · **Open PRs**: 31 · **Closed issues**: 814 · **Open issues**: 225 · **Commits**: 4840
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 31 · **Closed issues**: 814 · **Open issues**: 225 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 1 | 3 | 12 | 6 | 33 |
-| last60d | 2026-08-21 | 5 | 4 | 3 | 27 | 10 | 93 |
-| 90d | 2026-07-22 | 8 | 16 | 7 | 44 | 15 | 142 |
-| last180d | 2026-04-23 | 12 | 33 | 9 | 98 | 29 | 244 |
-| 360d | 2025-10-25 | 32 | 103 | 23 | 323 | 95 | 642 |
-| last720d | 2024-10-30 | 82 | 203 | 31 | 725 | 222 | 1519 |
+| 30d | 2026-09-21 | 2 | 2 | 3 | 12 | 6 | 34 |
+| last60d | 2026-08-22 | 5 | 5 | 3 | 26 | 9 | 94 |
+| 90d | 2026-07-23 | 8 | 17 | 7 | 43 | 14 | 143 |
+| last180d | 2026-04-24 | 12 | 34 | 9 | 98 | 29 | 245 |
+| 360d | 2025-10-26 | 30 | 104 | 23 | 323 | 95 | 643 |
+| last720d | 2024-10-31 | 82 | 204 | 31 | 725 | 222 | 1518 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T06:05:17Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T06:06:48Z._
