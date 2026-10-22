@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,100 · **Forks**: 1,908 · **Open issues**: 1,039 · **Contributors**: 128
+- **Stars**: 47,105 · **Forks**: 1,909 · **Open issues**: 1,040 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 31 · **Closed issues**: 814 · **Open issues**: 225 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 31 · **Closed issues**: 814 · **Open issues**: 226 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 2 | 3 | 12 | 6 | 34 |
-| last60d | 2026-08-22 | 5 | 5 | 3 | 26 | 9 | 94 |
-| 90d | 2026-07-23 | 8 | 17 | 7 | 43 | 14 | 143 |
-| last180d | 2026-04-24 | 12 | 34 | 9 | 98 | 29 | 245 |
-| 360d | 2025-10-26 | 30 | 104 | 23 | 323 | 95 | 643 |
-| last720d | 2024-10-31 | 82 | 204 | 31 | 725 | 222 | 1518 |
+| 30d | 2026-09-22 | 2 | 2 | 3 | 11 | 6 | 34 |
+| last60d | 2026-08-23 | 5 | 5 | 3 | 26 | 10 | 94 |
+| 90d | 2026-07-24 | 8 | 17 | 7 | 43 | 13 | 143 |
+| last180d | 2026-04-25 | 11 | 34 | 8 | 98 | 30 | 245 |
+| 360d | 2025-10-27 | 30 | 104 | 23 | 323 | 96 | 643 |
+| last720d | 2024-11-01 | 82 | 204 | 31 | 725 | 223 | 1518 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:06:48Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:21Z._
