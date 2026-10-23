@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,105 · **Forks**: 1,909 · **Open issues**: 1,040 · **Contributors**: 127
+- **Stars**: 47,101 · **Forks**: 1,911 · **Open issues**: 1,040 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 2 | 3 | 11 | 6 | 34 |
-| last60d | 2026-08-23 | 5 | 5 | 3 | 26 | 10 | 94 |
-| 90d | 2026-07-24 | 8 | 17 | 7 | 43 | 13 | 143 |
-| last180d | 2026-04-25 | 11 | 34 | 8 | 98 | 30 | 245 |
-| 360d | 2025-10-27 | 30 | 104 | 23 | 323 | 96 | 643 |
-| last720d | 2024-11-01 | 82 | 204 | 31 | 725 | 223 | 1518 |
+| 30d | 2026-09-23 | 2 | 2 | 3 | 11 | 6 | 34 |
+| last60d | 2026-08-24 | 5 | 5 | 3 | 26 | 10 | 94 |
+| 90d | 2026-07-25 | 8 | 17 | 7 | 43 | 13 | 143 |
+| last180d | 2026-04-26 | 11 | 34 | 8 | 98 | 30 | 245 |
+| 360d | 2025-10-28 | 30 | 104 | 23 | 322 | 95 | 643 |
+| last720d | 2024-11-02 | 82 | 204 | 31 | 725 | 223 | 1518 |
 
 ## Release assets
 
@@ -78,6 +78,19 @@ Lowest-scoring checks:
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.26/helptext.html) | 278.0 KiB | `other` |
 
+## Distribution status
+
+Reported by **28** distros on [repology.org](https://repology.org/project/copyparty). **9** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.20.26` | ✅ latest |
+| Homebrew | `1.20.26` | ✅ latest |
+| Fedora rawhide | `1.20.21` | ⚠️ outdated |
+| Nix unstable | `1.20.26` | ✅ latest |
+| Void | `1.20.26` | ✅ latest |
+| Alpine edge | `1.20.16` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:21Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:00:28Z._
