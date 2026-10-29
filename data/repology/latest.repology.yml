@@ -1,3 +1,30 @@
+- repo: parabola
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: newest
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: copyparty
+  binnames:
+    - copyparty
+  visiblename: copyparty
+  version: 1.20.1
+  origversion: 1.20.1-1
+  status: outdated
+  summary: File server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - System/Servers
 - repo: slackbuilds
   srcname: network/copyparty
   visiblename: network/copyparty
@@ -134,22 +161,6 @@
     - MIT
   categories:
     - www-servers
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: copyparty
-  binnames:
-    - copyparty
-  visiblename: copyparty
-  version: 1.20.1
-  origversion: 1.20.1-1
-  status: outdated
-  summary: File server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - MIT
-  categories:
-    - System/Servers
 - repo: gentoo_ovl_guru
   srcname: www-servers/copyparty
   visiblename: www-servers/copyparty
@@ -304,17 +315,6 @@
     - MIT
   categories:
     - System/Libraries
-- repo: parabola
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1
-  status: newest
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
 - repo: terra_41
   srcname: copyparty
   binname: copyparty
