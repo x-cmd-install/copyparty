@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,218 · **Forks**: 1,917 · **Open issues**: 1,047 · **Contributors**: 127
+- **Stars**: 47,231 · **Forks**: 1,916 · **Open issues**: 1,049 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 36 · **Closed issues**: 815 · **Open issues**: 232 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 36 · **Closed issues**: 816 · **Open issues**: 233 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 2 | 8 | 8 | 11 | 10 |
-| last60d | 2026-09-02 | 5 | 4 | 8 | 20 | 16 | 56 |
-| 90d | 2026-08-03 | 7 | 13 | 11 | 39 | 19 | 116 |
-| last180d | 2026-05-05 | 11 | 32 | 13 | 95 | 34 | 241 |
-| 360d | 2025-11-06 | 29 | 99 | 26 | 308 | 95 | 634 |
-| last720d | 2024-11-11 | 81 | 204 | 36 | 726 | 228 | 1504 |
+| 30d | 2026-10-03 | 2 | 2 | 8 | 9 | 12 | 10 |
+| last60d | 2026-09-03 | 5 | 4 | 8 | 21 | 16 | 56 |
+| 90d | 2026-08-04 | 6 | 12 | 11 | 37 | 20 | 116 |
+| last180d | 2026-05-06 | 11 | 32 | 13 | 96 | 35 | 241 |
+| 360d | 2025-11-07 | 29 | 99 | 26 | 308 | 96 | 634 |
+| last720d | 2024-11-12 | 81 | 204 | 36 | 726 | 229 | 1504 |
 
 ## Release assets
 
@@ -80,13 +80,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/copyparty). **9** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/copyparty). **10** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.20.26` | ✅ latest |
 | Homebrew | `1.20.26` | ✅ latest |
-| Fedora rawhide | `1.20.21` | ⚠️ outdated |
+| Fedora rawhide | `1.20.26` | ✅ latest |
 | Nix unstable | `1.20.26` | ✅ latest |
 | Void | `1.20.26` | ✅ latest |
 | Alpine edge | `1.20.16` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:27:12Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:32:43Z._
