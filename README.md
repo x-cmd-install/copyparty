@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,260 · **Forks**: 1,920 · **Open issues**: 1,053 · **Contributors**: 127
+- **Stars**: 47,268 · **Forks**: 1,921 · **Open issues**: 1,054 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 36 · **Closed issues**: 817 · **Open issues**: 236 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 36 · **Closed issues**: 817 · **Open issues**: 237 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 1 | 8 | 6 | 14 | 10 |
-| last60d | 2026-09-07 | 3 | 4 | 8 | 21 | 19 | 56 |
-| 90d | 2026-08-08 | 6 | 10 | 10 | 33 | 22 | 116 |
-| last180d | 2026-05-10 | 11 | 31 | 13 | 96 | 35 | 241 |
-| 360d | 2025-11-11 | 29 | 99 | 26 | 308 | 96 | 634 |
-| last720d | 2024-11-16 | 80 | 204 | 36 | 727 | 232 | 1496 |
+| 30d | 2026-10-08 | 1 | 1 | 7 | 6 | 15 | 10 |
+| last60d | 2026-09-08 | 3 | 4 | 8 | 21 | 19 | 56 |
+| 90d | 2026-08-09 | 6 | 9 | 10 | 33 | 23 | 116 |
+| last180d | 2026-05-11 | 11 | 31 | 13 | 96 | 36 | 241 |
+| 360d | 2025-11-12 | 29 | 98 | 26 | 308 | 97 | 634 |
+| last720d | 2024-11-17 | 80 | 204 | 36 | 727 | 233 | 1496 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/copyparty). **10** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/copyparty). **13** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:10:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:22Z._
