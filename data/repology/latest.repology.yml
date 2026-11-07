@@ -95,17 +95,6 @@
     - MIT AND Apache-2.0 AND OFL-1.1
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1
-  status: newest
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
 - repo: fedora_rawhide
   subrepo: development
   srcname: copyparty
@@ -125,9 +114,9 @@
 - repo: gentoo_ovl_guru
   srcname: www-servers/copyparty
   visiblename: www-servers/copyparty
-  version: 1.20.25
-  origversion: null
-  status: legacy
+  version: 1.20.26
+  origversion: 1.20.26-r1
+  status: newest
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -141,6 +130,19 @@
   version: 1.20.26
   origversion: null
   status: newest
+  summary: Easy-to-use, feature-packed, protable file server
+  maintainers:
+    - esteve.varela@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - www-servers
+- repo: gentoo_ovl_guru
+  srcname: www-servers/copyparty
+  visiblename: www-servers/copyparty
+  version: 1.20.25
+  origversion: null
+  status: legacy
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -180,6 +182,19 @@
   srcname: www-servers/copyparty
   visiblename: www-servers/copyparty
   version: 1.20.26
+  origversion: 1.20.26-r1
+  status: newest
+  summary: Easy-to-use, feature-packed, protable file server
+  maintainers:
+    - esteve.varela@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - www-servers
+- repo: liguros_develop
+  srcname: www-servers/copyparty
+  visiblename: www-servers/copyparty
+  version: 1.20.26
   origversion: null
   status: newest
   summary: Easy-to-use, feature-packed, protable file server
@@ -189,6 +204,28 @@
     - MIT
   categories:
     - www-servers
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.25
+  origversion: 1.20.25-1
+  status: outdated
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: newest
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: copyparty
@@ -259,6 +296,17 @@
     - MIT
   categories:
     - System/Libraries
+- repo: parabola
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: newest
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
 - repo: rosa_13
   subrepo: contrib/release
   srcname: copyparty
