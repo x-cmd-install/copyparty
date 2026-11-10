@@ -30,8 +30,8 @@ x install copyparty
 
 评分最低的几项:
 
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
@@ -47,22 +47,22 @@ x install copyparty
 
 ## 流行度
 
-- **Star**: 47,276 · **Fork**: 1,921 · **开放 issue**: 1,054 · **贡献者**: 127
+- **Star**: 47,312 · **Fork**: 1,922 · **开放 issue**: 1,055 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 351 · **已合并 PR**: 220 · **开放 PR**: 36 · **已关闭 issue**: 817 · **开放 issue**: 237 · **提交数**: 4841
+- **发布数**: 351 · **已合并 PR**: 220 · **开放 PR**: 37 · **已关闭 issue**: 817 · **开放 issue**: 238 · **提交数**: 4841
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 1 | 7 | 6 | 15 | 10 |
-| last60d | 2026-09-09 | 3 | 4 | 8 | 20 | 19 | 56 |
-| 90d | 2026-08-10 | 6 | 9 | 10 | 33 | 23 | 116 |
-| last180d | 2026-05-12 | 11 | 31 | 13 | 94 | 36 | 241 |
-| 360d | 2025-11-13 | 29 | 98 | 26 | 307 | 97 | 634 |
-| last720d | 2024-11-18 | 80 | 204 | 36 | 727 | 233 | 1495 |
+| 30d | 2026-10-11 | 1 | 1 | 7 | 3 | 16 | 1 |
+| last60d | 2026-09-11 | 3 | 4 | 9 | 19 | 20 | 55 |
+| 90d | 2026-08-12 | 6 | 9 | 11 | 32 | 24 | 99 |
+| last180d | 2026-05-14 | 11 | 30 | 14 | 91 | 37 | 240 |
+| 360d | 2025-11-15 | 29 | 98 | 26 | 304 | 95 | 629 |
+| last720d | 2024-11-20 | 80 | 204 | 37 | 727 | 234 | 1494 |
 
 ## Release 资产
 
@@ -80,7 +80,7 @@ x install copyparty
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/copyparty) 上共有 **30** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/copyparty) 上共有 **30** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -100,4 +100,4 @@ copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:20:00Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T09:05:49Z._

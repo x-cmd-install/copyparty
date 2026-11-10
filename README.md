@@ -30,8 +30,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,276 · **Forks**: 1,921 · **Open issues**: 1,054 · **Contributors**: 127
+- **Stars**: 47,312 · **Forks**: 1,922 · **Open issues**: 1,055 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 36 · **Closed issues**: 817 · **Open issues**: 237 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 37 · **Closed issues**: 817 · **Open issues**: 238 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 1 | 7 | 6 | 15 | 10 |
-| last60d | 2026-09-09 | 3 | 4 | 8 | 20 | 19 | 56 |
-| 90d | 2026-08-10 | 6 | 9 | 10 | 33 | 23 | 116 |
-| last180d | 2026-05-12 | 11 | 31 | 13 | 94 | 36 | 241 |
-| 360d | 2025-11-13 | 29 | 98 | 26 | 307 | 97 | 634 |
-| last720d | 2024-11-18 | 80 | 204 | 36 | 727 | 233 | 1495 |
+| 30d | 2026-10-11 | 1 | 1 | 7 | 3 | 16 | 1 |
+| last60d | 2026-09-11 | 3 | 4 | 9 | 19 | 20 | 55 |
+| 90d | 2026-08-12 | 6 | 9 | 11 | 32 | 24 | 99 |
+| last180d | 2026-05-14 | 11 | 30 | 14 | 91 | 37 | 240 |
+| 360d | 2025-11-15 | 29 | 98 | 26 | 304 | 95 | 629 |
+| last720d | 2024-11-20 | 80 | 204 | 37 | 727 | 234 | 1494 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/copyparty). **13** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/copyparty). **15** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:19:59Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:05:48Z._
