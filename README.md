@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,369 · **Forks**: 1,927 · **Open issues**: 1,056 · **Contributors**: 127
+- **Stars**: 47,381 · **Forks**: 1,930 · **Open issues**: 1,055 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 40 · **Closed issues**: 817 · **Open issues**: 239 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 40 · **Closed issues**: 816 · **Open issues**: 239 · **Commits**: 4841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 9 | 3 | 14 | 0 |
-| last60d | 2026-09-17 | 3 | 4 | 12 | 17 | 20 | 35 |
-| 90d | 2026-08-18 | 5 | 7 | 13 | 31 | 25 | 94 |
-| last180d | 2026-05-20 | 11 | 27 | 17 | 85 | 37 | 215 |
-| 360d | 2025-11-21 | 29 | 98 | 28 | 293 | 92 | 621 |
-| last720d | 2024-11-26 | 79 | 203 | 40 | 725 | 235 | 1480 |
+| 30d | 2026-10-18 | 0 | 1 | 9 | 3 | 14 | 0 |
+| last60d | 2026-09-18 | 3 | 3 | 12 | 17 | 20 | 35 |
+| 90d | 2026-08-19 | 5 | 6 | 13 | 30 | 25 | 94 |
+| last180d | 2026-05-21 | 11 | 27 | 17 | 83 | 37 | 215 |
+| 360d | 2025-11-22 | 29 | 98 | 28 | 292 | 91 | 621 |
+| last720d | 2024-11-27 | 79 | 203 | 40 | 724 | 235 | 1476 |
 
 ## Release assets
 
@@ -78,19 +78,6 @@ Lowest-scoring checks:
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.26/helptext.html) | 278.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **30** distros on [repology.org](https://repology.org/project/copyparty). **15** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.20.26` | ✅ latest |
-| Homebrew | `1.20.26` | ✅ latest |
-| Fedora rawhide | `1.20.26` | ✅ latest |
-| Nix unstable | `1.20.26` | ✅ latest |
-| Void | `1.20.26` | ✅ latest |
-| Alpine edge | `1.20.16` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +87,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:51:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:19:25Z._

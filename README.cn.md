@@ -30,9 +30,9 @@ x install copyparty
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install copyparty
 
 ## 流行度
 
-- **Star**: 47,369 · **Fork**: 1,927 · **开放 issue**: 1,056 · **贡献者**: 127
+- **Star**: 47,381 · **Fork**: 1,930 · **开放 issue**: 1,055 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 351 · **已合并 PR**: 220 · **开放 PR**: 40 · **已关闭 issue**: 817 · **开放 issue**: 239 · **提交数**: 4841
+- **发布数**: 351 · **已合并 PR**: 220 · **开放 PR**: 40 · **已关闭 issue**: 816 · **开放 issue**: 239 · **提交数**: 4841
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 9 | 3 | 14 | 0 |
-| last60d | 2026-09-17 | 3 | 4 | 12 | 17 | 20 | 35 |
-| 90d | 2026-08-18 | 5 | 7 | 13 | 31 | 25 | 94 |
-| last180d | 2026-05-20 | 11 | 27 | 17 | 85 | 37 | 215 |
-| 360d | 2025-11-21 | 29 | 98 | 28 | 293 | 92 | 621 |
-| last720d | 2024-11-26 | 79 | 203 | 40 | 725 | 235 | 1480 |
+| 30d | 2026-10-18 | 0 | 1 | 9 | 3 | 14 | 0 |
+| last60d | 2026-09-18 | 3 | 3 | 12 | 17 | 20 | 35 |
+| 90d | 2026-08-19 | 5 | 6 | 13 | 30 | 25 | 94 |
+| last180d | 2026-05-21 | 11 | 27 | 17 | 83 | 37 | 215 |
+| 360d | 2025-11-22 | 29 | 98 | 28 | 292 | 91 | 621 |
+| last720d | 2024-11-27 | 79 | 203 | 40 | 724 | 235 | 1476 |
 
 ## Release 资产
 
@@ -78,19 +78,6 @@ x install copyparty
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.26/helptext.html) | 278.0 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/copyparty) 上共有 **30** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.20.26` | ✅ latest |
-| Homebrew | `1.20.26` | ✅ latest |
-| Fedora rawhide | `1.20.26` | ✅ latest |
-| Nix unstable | `1.20.26` | ✅ latest |
-| Void | `1.20.26` | ✅ latest |
-| Alpine edge | `1.20.16` | ⚠️ outdated |
-
 ## 改进这些数据
 
 copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `copyparty` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +87,4 @@ copyparty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:51:45Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:19:26Z._
