@@ -95,6 +95,38 @@
     - MIT AND Apache-2.0 AND OFL-1.1
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: copyparty
+  binnames:
+    - copyparty
+    - copyparty-u2c
+    - copyparty-partyfuse
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1.fc45
+  status: newest
+  summary: Portable file server with many supported protocols
+  licenses:
+    - MIT AND Apache-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: copyparty
+  binnames:
+    - copyparty
+    - copyparty-u2c
+    - copyparty-partyfuse
+  visiblename: copyparty
+  version: 1.20.21
+  origversion: 1.20.21-1.fc45
+  status: legacy
+  summary: Portable file server with many supported protocols
+  licenses:
+    - MIT AND Apache-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: copyparty
@@ -115,7 +147,7 @@
   srcname: www-servers/copyparty
   visiblename: www-servers/copyparty
   version: 1.20.26
-  origversion: 1.20.26-r1
+  origversion: 1.20.26-r3
   status: newest
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
