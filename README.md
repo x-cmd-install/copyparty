@@ -14,12 +14,12 @@ x install copyparty
 
 ## Code insight
 
-Total: **94,769** lines of code across **276** files in the top 5 languages.
+Total: **94,779** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,551 | 1,834 | 9,729 | 156 |
-| JavaScript | 34,035 | 470 | 4,258 | 47 |
+| Python | 46,556 | 1,834 | 9,731 | 156 |
+| JavaScript | 34,040 | 470 | 4,259 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
 | Sh | 3,257 | 869 | 935 | 45 |
 | Html | 1,288 | 14 | 99 | 17 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.26` (2026-10-14)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-18
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 47,381 · **Forks**: 1,930 · **Open issues**: 1,055 · **Contributors**: 127
+- **Stars**: 47,404 · **Forks**: 1,931 · **Open issues**: 1,056 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 220 · **Open PRs**: 40 · **Closed issues**: 816 · **Open issues**: 239 · **Commits**: 4841
+- **Releases**: 351 · **Merged PRs**: 224 · **Open PRs**: 36 · **Closed issues**: 816 · **Open issues**: 240 · **Commits**: 4845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 9 | 3 | 14 | 0 |
-| last60d | 2026-09-18 | 3 | 3 | 12 | 17 | 20 | 35 |
-| 90d | 2026-08-19 | 5 | 6 | 13 | 30 | 25 | 94 |
-| last180d | 2026-05-21 | 11 | 27 | 17 | 83 | 37 | 215 |
-| 360d | 2025-11-22 | 29 | 98 | 28 | 292 | 91 | 621 |
-| last720d | 2024-11-27 | 79 | 203 | 40 | 724 | 235 | 1476 |
+| 30d | 2026-10-20 | 0 | 4 | 5 | 3 | 15 | 4 |
+| last60d | 2026-09-20 | 2 | 6 | 8 | 15 | 21 | 39 |
+| 90d | 2026-08-21 | 5 | 9 | 8 | 30 | 25 | 98 |
+| last180d | 2026-05-23 | 11 | 29 | 13 | 82 | 38 | 219 |
+| 360d | 2025-11-24 | 29 | 101 | 23 | 290 | 92 | 625 |
+| last720d | 2024-11-29 | 79 | 207 | 36 | 724 | 236 | 1478 |
 
 ## Release assets
 
@@ -78,6 +78,19 @@ Lowest-scoring checks:
 | [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty32.exe) | 6.3 MiB | `other` |
 | [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.26/helptext.html) | 278.0 KiB | `other` |
 
+## Distribution status
+
+Reported by **32** distros on [repology.org](https://repology.org/project/copyparty). **16** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.20.26` | ✅ latest |
+| Homebrew | `1.20.26` | ✅ latest |
+| Fedora rawhide | `1.20.26` | ✅ latest |
+| Nix unstable | `1.20.26` | ✅ latest |
+| Void | `1.20.26` | ✅ latest |
+| Alpine edge | `1.20.16` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copyparty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:19:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:07:20Z._
