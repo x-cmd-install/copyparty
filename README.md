@@ -14,14 +14,14 @@ x install copyparty
 
 ## Code insight
 
-Total: **94,779** lines of code across **276** files in the top 5 languages.
+Total: **95,050** lines of code across **278** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,556 | 1,834 | 9,731 | 156 |
-| JavaScript | 34,040 | 470 | 4,259 | 47 |
+| Python | 46,663 | 1,836 | 9,741 | 156 |
+| JavaScript | 34,106 | 465 | 4,221 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
-| Sh | 3,257 | 869 | 935 | 45 |
+| Sh | 3,353 | 877 | 960 | 47 |
 | Html | 1,288 | 14 | 99 | 17 |
 
 ## OpenSSF Scorecard
@@ -41,42 +41,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.20.26` (2026-10-14)
-- **Last commit**: 2026-11-18
+- **Latest**: `v1.20.27` (2026-11-22)
+- **Last commit**: 2026-11-22
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 47,431 · **Forks**: 1,932 · **Open issues**: 1,056 · **Contributors**: 128
+- **Stars**: 47,436 · **Forks**: 1,932 · **Open issues**: 1,056 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 351 · **Merged PRs**: 224 · **Open PRs**: 35 · **Closed issues**: 816 · **Open issues**: 240 · **Commits**: 4845
+- **Releases**: 352 · **Merged PRs**: 224 · **Open PRs**: 34 · **Closed issues**: 818 · **Open issues**: 238 · **Commits**: 4847
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 4 | 4 | 3 | 13 | 4 |
-| last60d | 2026-09-23 | 2 | 6 | 7 | 14 | 20 | 32 |
-| 90d | 2026-08-24 | 5 | 9 | 7 | 29 | 24 | 98 |
-| last180d | 2026-05-26 | 11 | 29 | 12 | 81 | 37 | 213 |
-| 360d | 2025-11-27 | 29 | 101 | 21 | 287 | 91 | 595 |
-| last720d | 2024-12-02 | 79 | 207 | 35 | 724 | 236 | 1473 |
+| 30d | 2026-10-24 | 1 | 4 | 3 | 4 | 12 | 6 |
+| last60d | 2026-09-24 | 3 | 6 | 6 | 15 | 18 | 34 |
+| 90d | 2026-08-25 | 6 | 9 | 6 | 30 | 22 | 100 |
+| last180d | 2026-05-27 | 11 | 29 | 11 | 83 | 34 | 215 |
+| 360d | 2025-11-28 | 30 | 101 | 20 | 284 | 89 | 597 |
+| last720d | 2024-12-03 | 80 | 207 | 34 | 725 | 234 | 1473 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [copyparty-1.20.26.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty-1.20.26.tar.gz) | 1.7 MiB | `native/unknown` |
-| [copyparty-1.20.26.zip](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty-1.20.26.zip) | 2.0 MiB | `other` |
-| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty-en.py) | 833.9 KiB | `other` |
-| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty-en.pyz) | 797.1 KiB | `other` |
-| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty-sfx.py) | 1.2 MiB | `other` |
-| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty.exe) | 12.6 MiB | `other` |
-| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty.pyz) | 1.1 MiB | `other` |
-| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.26/copyparty32.exe) | 6.3 MiB | `other` |
-| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.26/helptext.html) | 278.0 KiB | `other` |
+| [copyparty-1.20.27.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-1.20.27.tar.gz) | 1.7 MiB | `native/unknown` |
+| [copyparty-1.20.27.zip](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-1.20.27.zip) | 2.0 MiB | `other` |
+| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-en.py) | 835.9 KiB | `other` |
+| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-en.pyz) | 799.0 KiB | `other` |
+| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-sfx.py) | 1.2 MiB | `other` |
+| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty.exe) | 12.6 MiB | `other` |
+| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty.pyz) | 1.1 MiB | `other` |
+| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty32.exe) | 6.3 MiB | `other` |
+| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.27/helptext.html) | 278.9 KiB | `other` |
 
 ## Distribution status
 
@@ -100,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:40:27Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:55:18Z._
