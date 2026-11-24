@@ -14,11 +14,11 @@ x install copyparty
 
 ## Code insight
 
-Total: **95,050** lines of code across **278** files in the top 5 languages.
+Total: **95,072** lines of code across **278** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,663 | 1,836 | 9,741 | 156 |
+| Python | 46,685 | 1,837 | 9,744 | 156 |
 | JavaScript | 34,106 | 465 | 4,221 | 47 |
 | Css | 5,898 | 52 | 323 | 11 |
 | Sh | 3,353 | 877 | 960 | 47 |
@@ -26,13 +26,13 @@ Total: **95,050** lines of code across **278** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -41,54 +41,54 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.20.27` (2026-11-22)
-- **Last commit**: 2026-11-22
+- **Latest**: `v1.20.28` (2026-11-24)
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 47,436 · **Forks**: 1,932 · **Open issues**: 1,056 · **Contributors**: 128
+- **Stars**: 47,444 · **Forks**: 1,933 · **Open issues**: 1,056 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 352 · **Merged PRs**: 224 · **Open PRs**: 34 · **Closed issues**: 818 · **Open issues**: 238 · **Commits**: 4847
+- **Releases**: 353 · **Merged PRs**: 224 · **Open PRs**: 34 · **Closed issues**: 818 · **Open issues**: 238 · **Commits**: 4849
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 4 | 3 | 4 | 12 | 6 |
-| last60d | 2026-09-24 | 3 | 6 | 6 | 15 | 18 | 34 |
-| 90d | 2026-08-25 | 6 | 9 | 6 | 30 | 22 | 100 |
-| last180d | 2026-05-27 | 11 | 29 | 11 | 83 | 34 | 215 |
-| 360d | 2025-11-28 | 30 | 101 | 20 | 284 | 89 | 597 |
-| last720d | 2024-12-03 | 80 | 207 | 34 | 725 | 234 | 1473 |
+| 30d | 2026-10-25 | 2 | 4 | 3 | 4 | 10 | 8 |
+| last60d | 2026-09-25 | 4 | 6 | 6 | 15 | 18 | 36 |
+| 90d | 2026-08-26 | 7 | 9 | 6 | 29 | 22 | 102 |
+| last180d | 2026-05-28 | 12 | 28 | 11 | 83 | 34 | 217 |
+| 360d | 2025-11-29 | 31 | 100 | 20 | 283 | 89 | 599 |
+| last720d | 2024-12-04 | 81 | 207 | 34 | 725 | 234 | 1466 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [copyparty-1.20.27.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-1.20.27.tar.gz) | 1.7 MiB | `native/unknown` |
-| [copyparty-1.20.27.zip](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-1.20.27.zip) | 2.0 MiB | `other` |
-| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-en.py) | 835.9 KiB | `other` |
-| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-en.pyz) | 799.0 KiB | `other` |
-| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty-sfx.py) | 1.2 MiB | `other` |
-| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty.exe) | 12.6 MiB | `other` |
-| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty.pyz) | 1.1 MiB | `other` |
-| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.27/copyparty32.exe) | 6.3 MiB | `other` |
-| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.27/helptext.html) | 278.9 KiB | `other` |
+| [copyparty-1.20.28.tar.gz](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty-1.20.28.tar.gz) | 1.7 MiB | `native/unknown` |
+| [copyparty-1.20.28.zip](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty-1.20.28.zip) | 2.0 MiB | `other` |
+| [copyparty-en.py](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty-en.py) | 835.9 KiB | `other` |
+| [copyparty-en.pyz](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty-en.pyz) | 799.1 KiB | `other` |
+| [copyparty-sfx.py](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty-sfx.py) | 1.2 MiB | `other` |
+| [copyparty.exe](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty.exe) | 12.6 MiB | `other` |
+| [copyparty.pyz](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty.pyz) | 1.1 MiB | `other` |
+| [copyparty32.exe](https://github.com/9001/copyparty/releases/download/v1.20.28/copyparty32.exe) | 6.3 MiB | `other` |
+| [helptext.html](https://github.com/9001/copyparty/releases/download/v1.20.28/helptext.html) | 278.9 KiB | `other` |
 
 ## Distribution status
 
-Reported by **32** distros on [repology.org](https://repology.org/project/copyparty). **16** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **33** distros on [repology.org](https://repology.org/project/copyparty). **4** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.20.26` | ✅ latest |
-| Homebrew | `1.20.26` | ✅ latest |
-| Fedora rawhide | `1.20.26` | ✅ latest |
-| Nix unstable | `1.20.26` | ✅ latest |
-| Void | `1.20.26` | ✅ latest |
+| Arch | `1.20.27` | ✅ latest |
+| Homebrew | `1.20.27` | ✅ latest |
+| Fedora rawhide | `1.20.27` | ✅ latest |
+| Nix unstable | `1.20.26` | ⚠️ outdated |
+| Void | `1.20.26` | ⚠️ outdated |
 | Alpine edge | `1.20.16` | ⚠️ outdated |
 
 ## Improve this data
@@ -100,4 +100,4 @@ Install metadata for copyparty lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:55:18Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:49:59Z._
