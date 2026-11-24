@@ -1,3 +1,36 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: outdated
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: outdated
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: copyparty
+  binname: copyparty
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1
+  status: outdated
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: copyparty
@@ -42,8 +75,8 @@
   srcname: copyparty
   binname: copyparty
   visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1
+  version: 1.20.27
+  origversion: 1.20.27-1
   status: newest
   summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
   licenses:
@@ -57,7 +90,7 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: 1.20.26-1.el10_3
-  status: newest
+  status: outdated
   summary: Portable file server with many supported protocols
   licenses:
     - MIT AND Apache-2.0 AND OFL-1.1
@@ -89,7 +122,23 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: 1.20.26-1.fc44
-  status: newest
+  status: outdated
+  summary: Portable file server with many supported protocols
+  licenses:
+    - MIT AND Apache-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: copyparty
+  binnames:
+    - copyparty
+    - copyparty-u2c
+    - copyparty-partyfuse
+  visiblename: copyparty
+  version: 1.20.26
+  origversion: 1.20.26-1.fc45
+  status: outdated
   summary: Portable file server with many supported protocols
   licenses:
     - MIT AND Apache-2.0 AND OFL-1.1
@@ -111,22 +160,6 @@
     - MIT AND Apache-2.0 AND OFL-1.1
   categories:
     - Unspecified
-- repo: fedora_45
-  subrepo: updates
-  srcname: copyparty
-  binnames:
-    - copyparty
-    - copyparty-u2c
-    - copyparty-partyfuse
-  visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1.fc45
-  status: newest
-  summary: Portable file server with many supported protocols
-  licenses:
-    - MIT AND Apache-2.0 AND OFL-1.1
-  categories:
-    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: copyparty
@@ -135,8 +168,8 @@
     - copyparty-u2c
     - copyparty-partyfuse
   visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1.fc46
+  version: 1.20.27
+  origversion: 1.20.27-1.fc46
   status: newest
   summary: Portable file server with many supported protocols
   licenses:
@@ -148,7 +181,7 @@
   visiblename: www-servers/copyparty
   version: 1.20.26
   origversion: 1.20.26-r3
-  status: newest
+  status: outdated
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -161,7 +194,7 @@
   visiblename: www-servers/copyparty
   version: 1.20.26
   origversion: null
-  status: newest
+  status: outdated
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -193,7 +226,7 @@
 - repo: homebrew
   srcname: copyparty
   visiblename: copyparty
-  version: 1.20.26
+  version: 1.20.27
   origversion: null
   status: newest
   summary: Portable file server
@@ -215,7 +248,7 @@
   visiblename: www-servers/copyparty
   version: 1.20.26
   origversion: 1.20.26-r3
-  status: newest
+  status: outdated
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -228,7 +261,7 @@
   visiblename: www-servers/copyparty
   version: 1.20.26
   origversion: null
-  status: newest
+  status: outdated
   summary: Easy-to-use, feature-packed, protable file server
   maintainers:
     - esteve.varela@gmail.com
@@ -236,39 +269,6 @@
     - MIT
   categories:
     - www-servers
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.25
-  origversion: 1.20.25-1
-  status: outdated
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1
-  status: newest
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: copyparty
-  binname: copyparty
-  visiblename: copyparty
-  version: 1.20.26
-  origversion: 1.20.26-1
-  status: newest
-  summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: copyparty
   visiblename: copyparty
@@ -308,7 +308,7 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: null
-  status: newest
+  status: outdated
   summary: turn almost any device into a file server over http(s), webdav, ftp(s), and tftp
   maintainers:
     - nix-maint@shelvacu.com
@@ -320,6 +320,22 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: 1.20.26-1mamba
+  status: legacy
+  summary: File server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - MIT
+  categories:
+    - System/Libraries
+- repo: openmamba
+  subrepo: devel-autodist
+  srcname: copyparty
+  binnames:
+    - copyparty
+  visiblename: copyparty
+  version: 1.20.27
+  origversion: 1.20.27-1mamba
   status: newest
   summary: File server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++
   maintainers:
@@ -335,7 +351,7 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: 1.20.26-1
-  status: newest
+  status: outdated
   summary: File server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, FTPS, zeroconf, media indexer, thumbnails++
   licenses:
     - MIT
@@ -414,7 +430,7 @@
   visiblename: copyparty
   version: 1.20.26
   origversion: 1.20.26_1
-  status: newest
+  status: outdated
   summary: Portable multi-protocol file server
   maintainers:
     - rayfadh@duck.com
